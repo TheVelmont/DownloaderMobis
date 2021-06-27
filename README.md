@@ -1,2 +1,6 @@
-# HabboPOP
-Habbo POP is my second private pirate Habbo server, here I will put some things from the server for the public to follow and obtain.
+# DownloaderMobis
+Download habbos swfs automatically with xml generator (only 'all' type)
+
+Examples to use:
+http://localhost/downloaderMobis.php?type=specific&nameSwf=nameSwf -> to download only 1 archive, without .swf in name
+http://localhost/downloaderMobis.php?type=all -> to download all .swfs of hof_furni.
